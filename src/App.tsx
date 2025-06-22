@@ -215,14 +215,14 @@ function App() {
                   rel="noopener noreferrer"
                   className="px-8 py-4 border-2 border-gray-900 dark:border-gray-100 text-gray-900 dark:text-gray-100 hover:bg-gray-900 hover:text-white dark:hover:bg-gray-100 dark:hover:text-gray-900 rounded-lg font-medium transition-colors flex items-center gap-3"
                 >
-                  View 1-Page Resume
+                  View 1-Page Resume**
                   <FileText size={18} />
                 </a>
               </div>
               
               <div className="text-right max-w-4xl mx-auto">
                 <span className="text-xs text-gray-400 dark:text-gray-500">
-                  *contains selected projects
+                  **contains selected projects
                 </span>
               </div>
             </div>
