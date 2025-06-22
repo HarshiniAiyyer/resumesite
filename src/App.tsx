@@ -223,6 +223,7 @@ function App() {
                     **contains selected projects
                   </span>
                 </div>
+              </div>
             </div>
           </div>
         </section>
