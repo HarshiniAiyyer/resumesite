@@ -201,7 +201,7 @@ function App() {
                 Product-focused Data Scientist & AI Technologist building ML-powered systems, agentic AI tools, and user-centric analytics dashboards
               </p>
               
-              <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
+              <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-4">
                 <button
                   onClick={() => scrollToSection('contact')}
                   className="px-8 py-4 bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 hover:bg-gray-800 dark:hover:bg-gray-200 rounded-lg font-medium transition-colors flex items-center gap-3"
@@ -209,20 +209,21 @@ function App() {
                   Get In Touch
                   <Mail size={18} />
                 </button>               
-               <div className="flex items-center gap-3">
-                  <a 
-                    href="https://notion.so/HarshiniAiyyer" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="px-8 py-4 border-2 border-gray-900 dark:border-gray-100 text-gray-900 dark:text-gray-100 hover:bg-gray-900 hover:text-white dark:hover:bg-gray-100 dark:hover:text-gray-900 rounded-lg font-medium transition-colors flex items-center gap-3"
-                  >
-                    View 1-Page Resume**
-                    <FileText size={18} />
-                  </a>
-                  <span className="text-xs text-gray-500 dark:text-gray-400 ml-2">
-                    **contains selected projects
-                  </span>
-                </div>
+                <a 
+                  href="https://notion.so/HarshiniAiyyer" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="px-8 py-4 border-2 border-gray-900 dark:border-gray-100 text-gray-900 dark:text-gray-100 hover:bg-gray-900 hover:text-white dark:hover:bg-gray-100 dark:hover:text-gray-900 rounded-lg font-medium transition-colors flex items-center gap-3"
+                >
+                  View 1-Page Resume
+                  <FileText size={18} />
+                </a>
+              </div>
+              
+              <div className="text-right max-w-4xl mx-auto">
+                <span className="text-xs text-gray-400 dark:text-gray-500">
+                  *contains selected projects
+                </span>
               </div>
             </div>
           </div>
