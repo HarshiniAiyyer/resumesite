@@ -346,7 +346,7 @@ function App() {
               <div className="bg-white dark:bg-gray-800 p-6 rounded-xl border border-gray-200 dark:border-gray-700">
                 <h4 className="font-semibold text-lg mb-4 text-gray-900 dark:text-gray-100">Data Engineering & Cloud</h4>
                 <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
-                  Apache Spark (PySpark), Azure, Databricks, BigQuery, RESTful APIs
+                  Apache Spark (PySpark), Azure, Databricks, RESTful APIs
                 </p>
               </div>
               
@@ -360,7 +360,7 @@ function App() {
               <div className="bg-white dark:bg-gray-800 p-6 rounded-xl border border-gray-200 dark:border-gray-700">
                 <h4 className="font-semibold text-lg mb-4 text-gray-900 dark:text-gray-100">Product & Collaboration</h4>
                 <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
-                  Agile, UX Testing, Confluence, End-to-End Prototyping, Feedback Loops, Stakeholder Communication
+                  Agile, End-to-End Prototyping, Feedback Loops, Stakeholder Communication
                 </p>
               </div>
               
