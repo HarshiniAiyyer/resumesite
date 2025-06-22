@@ -506,7 +506,7 @@ function App() {
                       </div>
                     </a>
                     
-                    <a href="https://linkedin.com/in/harshini-aiyyer" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 p-6 bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700 hover:shadow-md transition-shadow">
+                    <a href="https://www.linkedin.com/in/harshini-a-29870b342/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 p-6 bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700 hover:shadow-md transition-shadow">
                       <div className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-lg flex items-center justify-center">
                         <Linkedin className="text-gray-600 dark:text-gray-400" size={20} />
                       </div>
@@ -568,7 +568,7 @@ function App() {
               <a href="https://github.com/HarshiniAiyyer" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com/in/harshini-aiyyer" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+              <a href="https://www.linkedin.com/in/harshini-a-29870b342/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                 <Linkedin size={24} />
               </a>
               <a href="mailto:harshini.k.aiyyer@gmail.com" className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
